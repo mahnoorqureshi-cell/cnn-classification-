@@ -1,5 +1,6 @@
-numpy
+streamlit
+seaborn
 pandas
-scikit-learn>=1.0
+numpy
 matplotlib
-
+# any other libraries your app uses
